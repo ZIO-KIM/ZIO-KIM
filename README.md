@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Undergraduate student, Sejong Univ., South Korea     
 - Interested in Data Science, Data Analysis, Biostatistics    
-- 🔭 Currently working as undergraduate research intern at Medical Big Data Lab, SNU., South Korea       
+- 🔭 Currently working as undergraduate research intern at Medical Big Data Lab, SNU., South Korea (2021.09 ~)      
 
 ### Skill stacks
 - (Main skills) Python, R, SQL, SAS, C   
