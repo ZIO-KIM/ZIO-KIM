@@ -1,4 +1,11 @@
 ### Hi there 👋
+- Undergraduate student, Sejong Univ., South Korea     
+- Interested in Data Science, Data Analysis, Biostatistics    
+- 🔭 Currently working as undergraduate research intern at Medical Big Data Lab, SNU., South Korea       
+
+### Skill stacks
+- (Main skills) Python, R, SQL, SAS, C   
+- (Used at least once) HTML/CSS/JS, JSP, Kotlin, Q-GIS, Arduino, Flask
 
 <!--
 **ZIO-KIM/ZIO-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
