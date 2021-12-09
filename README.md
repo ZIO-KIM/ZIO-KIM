@@ -7,6 +7,10 @@
 - (Main skills) Python, R, SQL, SAS, C   
 - (Used at least once) HTML/CSS/JS, JSP, Kotlin, Q-GIS, Arduino, Flask
 
+### How to reach me    
+- ✨(Tech blog) https://ds1899.tistory.com/
+- ✨(E-mail) <zio0323gm@gmail.com>
+
 <!--
 **ZIO-KIM/ZIO-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZIO-KIM&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
