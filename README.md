@@ -4,7 +4,7 @@
 - 🔭 Currently working as undergraduate research intern at Clinical medical Big Data Lab, SNU., South Korea (2021.09 ~)      
 
 ### Skill stacks
-- (Main skills) Python, R, SQL, SAS, C, JS   
+- (Main skills) Python, R, SQL, SAS, C, JS, Tensorflow 
 - (Used at least once) Flask, Ajax, JSP, JAVA, Kotlin, Q-GIS, Arduino
 
 ### How to reach me    
