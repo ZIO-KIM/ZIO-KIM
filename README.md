@@ -1,13 +1,14 @@
-### Hi there 👋
-- Undergraduate student, Sejong Univ., South Korea     
-- Interested in Data Science, Data Analysis, Biostatistics, Bioengineering          
-- 🔭 Currently working as undergraduate research intern at Clinical medical Big Data Lab, SNU., South Korea (2021.09 ~)      
+### Hi there 👋      
+- ✨ Master's degree candidate in Bioengineering, Seoul National Univ., South Korea
+- ✨ Bachelor of Engineering in Data Science, Sejong Univ., South Korea     
+- 💬 Interested in Data Science, Data Analysis, Biostatistics, Bioengineering, Medical big data          
+- 🔭 Undergraduate research intern at Clinical medical Big Data Lab, SNU., South Korea (2021.09 ~ 2023.02)      
 
-### Skill stacks
-- (Main skills) Python, R, SQL, SAS, C, JS, Tensorflow 
-- (Used at least once) Flask, Ajax, JSP, JAVA, Kotlin, Q-GIS, Arduino, Pytorch     
+### ⚡ Skill stacks
+- (Main skills) Python, R, SQL, SAS, C, Tensorflow 
+- (Used at least once) Flask, Ajax, JSP, JavaScript, JAVA, Kotlin, Q-GIS, Arduino, Pytorch     
 
-### How to reach me    
+### 📫 How to reach me    
 - ✨(Tech blog) https://ds1899.tistory.com/
 - ✨(E-mail) <zio0323gm@gmail.com>
 
