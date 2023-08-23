@@ -9,8 +9,8 @@
 - [Used at least once] Flask, Ajax, JSP, JavaScript, JAVA, Kotlin, Q-GIS, Arduino, Pytorch     
 
 ### 📫 How to reach me    
-- ✨(Tech blog) https://ds1899.tistory.com/
-- ✨(E-mail) <zio0323gm@gmail.com>
+- ✨[Tech blog] https://ds1899.tistory.com/
+- ✨[E-mail] <ziokim@snu.ac.kr>
 
 <!--
 **ZIO-KIM/ZIO-KIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
